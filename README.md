@@ -14,6 +14,11 @@ user defined modules are -
   5) sales_prompt.py.and
   6) reports.py
 
+SOFTWARES
+1) MYSQL
+2) PYTHON
+3) TKINTER
+
 PROCEDURE
  Steps to guide you though my codes execution:-
 
