@@ -40,7 +40,7 @@ PROCEDURE
 		 
 		 
 3. Reports.py - option 5 in the manager_prompt module (manager_prompt.py) automatically transfers the control to reports module (reports.py file). 
-  Here, a thinkter screen will appear. You can click on the three buttons to view the data offered.
+  Here, a tkinter screen will appear. You can click on the three buttons to view the data offered.
   The options provided on the buttons are -
          1. Fetch count of employees joined this month 
          2. Fetch sales count of this month 
