@@ -1,0 +1,2 @@
+SaleAccount1,Debit,2022-01-04,500
+SaleAccount1,Debit,2022-01-04,500
