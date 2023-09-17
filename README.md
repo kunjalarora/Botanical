@@ -1,7 +1,7 @@
 WELCOME TO BOTANICAL GARDEN.
 This project involves all functions related to Garden setup and maintenance.
 
-Developer: Kunjal Arora, Class XII-A
+Developer: Kunjal Arora, Year 2, York University
 
 INTRODUCTION
 
