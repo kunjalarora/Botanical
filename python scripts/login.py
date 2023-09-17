@@ -2,8 +2,9 @@ import manager_prompt
 import sales_prompt
 import Plants_prompt
 import Customers_prompt
+
 while(True) :
-  print("Welcome to the botanic garden, the best nursery in your town next to your home. \n Please login using your id and password below.")
+  print("Welcome to  my botanic garden, the best nursery in your town next to your home. \n Please login using your id and password below.")
   print("MENU")
   id = input(' If you are a manager, enter using manager01, if you are admin, enter admin credentials and if you are employee, please enter using your employee id. enter quit to exit. \n please enter your id : ')
   password = input("Enter your password : ")
